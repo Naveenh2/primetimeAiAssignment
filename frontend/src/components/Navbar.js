@@ -39,7 +39,7 @@ export default function Navbar() {
                 onClick={onLogout}
                 className="rounded bg-slate-900 px-3 py-1.5 text-white"
               >
-                Logout
+                Logout!
               </button>
             </>
           ) : (
